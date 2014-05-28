@@ -1,7 +1,6 @@
-
 (function () {
-  Parse.initialize("s4747jSandiQGpXlbizjGZMgXJAepvnGnbc7NCmu",
-    "PihDCqy36lpBPQc8rmiEH477nSD0tT1vrSSjBAm0");
+  Parse.initialize("SkCJIpl0OHd4r6zc7cMoeIHmR9eRI6nAx4gkUKFs",
+    "9DCgWphrXsFMKyHeB6QVWpsbbU9ycQITpZgOfFTk");
   var templates = {};
   ["loginView", "evaluationView", "updateSuccessView"].forEach(function (e) {
     templateCode = document.getElementById(e).text;
